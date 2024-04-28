@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Typography, Grid, Card, CardContent, CardMedia, Button } from '@mui/material';
+import { Box, Typography, Grid, Card, CardContent, CardMedia} from '@mui/material';
 import { styled } from '@mui/system';
 
 const StyledCard = styled(Card)(({ theme }) => ({
@@ -75,7 +75,7 @@ const services = [
 function Services() {
     return (
         <Box sx={{ flexGrow: 1, paddingLeft:{md:18}, paddingTop: 4, padding:{xs:2,sm:6, }, backgroundColor: '#f5f5f5', border: '0px solid red' }}>
-            <Typography variant="h4" align="start" gutterBottom>
+            <Typography variant="h4" align="inherit" gutterBottom>
                 Our Services
             </Typography>
             <Grid container spacing={2} justifyContent="center" sx={{ border: '0px solid green',  }}>

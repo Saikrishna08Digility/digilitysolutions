@@ -1,6 +1,6 @@
 // src/components/Careers.js
 import React from 'react';
-import { Box, Container, Typography, List, ListItem, ListItemText, Grid, Button } from '@mui/material';
+import { Box, Typography, Grid, Button } from '@mui/material';
 import { styled } from '@mui/system';
 
 const CareerBox = styled(Box)(({ theme }) => ({
@@ -73,13 +73,7 @@ function Careers() {
         'We are seeking a dynamic marketing manager to lead our digital marketing efforts. You will be responsible for developing and implementing effective marketing strategies to drive customer acquisition and engagement.',
     },
   ];
-
-
-  const jobs = [
-    { id: 1, title: "Frontend Developer", description: "Join our team as a lead frontend developer..." },
-    { id: 2, title: "Project Manager", description: "Looking for an experienced project manager..." },
-  ];
-
+  
   return (
 
     //  <Box p={3}>

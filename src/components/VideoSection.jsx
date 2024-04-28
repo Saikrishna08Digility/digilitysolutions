@@ -3,7 +3,7 @@ import React from 'react';
 import { Container, Box, useTheme, useMediaQuery, Grid } from '@mui/material';
 import Typography from '@mui/material/Typography';
 import aiVideo from './ai.mp4';
-import { SvgIcon } from '@mui/material';
+//import { SvgIcon } from '@mui/material';
 import { Settings as DevOpsIcon, Code as JavaIcon, CloudOutlined as CloudIcon } from '@mui/icons-material';
 
 
@@ -97,7 +97,6 @@ const VideoSection = () => {
               position: "absolute",
               left: { xs: '2%', sm: '5%', md: '0%' },
               pr: { xs: "2%", sm: "5%", md: '10%' },
-              color: "white",
               width: { xs: '99%', sm: '100%', md: '100%' },
               border: '0px solid red',
               top: { xs: '45%', sm: '50%', md: "65%" },

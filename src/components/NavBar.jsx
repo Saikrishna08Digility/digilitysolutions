@@ -18,12 +18,12 @@ import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
 import { HashLink } from 'react-router-hash-link';  // Import HashLink
-import AdbIcon from '@mui/icons-material/Adb';
+//import AdbIcon from '@mui/icons-material/Adb';
 import { useState, useRef, useEffect } from 'react';
 import logoDigility from '../Assets/UpdatedLogo.jpg';
 
 
-const drawerWidth = 240;
+//const drawerWidth = 240;
 const navItems = ['Home', 'About Us',  'Careers', 'Services', 'Blogs', 'Contact'];
 
 function NavBar() {
@@ -54,7 +54,7 @@ function NavBar() {
       window.addEventListener('scroll', handleScroll);
       return () => window.removeEventListener('scroll', handleScroll);
     }
-  }, [prevScrollPos, showNavBar, navBarRef, handleScroll, window]); // Dependencies for re-running effect
+  }, [prevScrollPos, showNavBar, navBarRef]); // Dependencies for re-running effect
 
   
   const navBarStyles = {

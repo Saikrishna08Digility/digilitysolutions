@@ -1,10 +1,10 @@
 // src/components/Home.js
 import React from 'react';
-import { Box, Typography } from '@mui/material';
+//import { Box, Typography } from '@mui/material';
 
 import Blogs from './Blogs';
 import Careers from './Careers';
-import Contact from './Contact';
+//import Contact from './Contact';
 import AboutUs from './AboutUs';
 import Services from './Services'
 // import NavBar from './NavBar';
