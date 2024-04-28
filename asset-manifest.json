@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/digilitysolutions/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/digilitysolutions/static/js/main.0abaec5c.chunk.js",
-    "main.js.map": "/digilitysolutions/static/js/main.0abaec5c.chunk.js.map",
-    "runtime~main.js": "/digilitysolutions/static/js/runtime~main.a79e2c72.js",
-    "runtime~main.js.map": "/digilitysolutions/static/js/runtime~main.a79e2c72.js.map",
-    "static/js/2.04516796.chunk.js": "/digilitysolutions/static/js/2.04516796.chunk.js",
-    "static/js/2.04516796.chunk.js.map": "/digilitysolutions/static/js/2.04516796.chunk.js.map",
-    "static/js/3.a339f9cc.chunk.js": "/digilitysolutions/static/js/3.a339f9cc.chunk.js",
-    "static/js/3.a339f9cc.chunk.js.map": "/digilitysolutions/static/js/3.a339f9cc.chunk.js.map",
-    "index.html": "/digilitysolutions/index.html",
-    "precache-manifest.aa567f117ae2ba63dcb067f90336f3c2.js": "/digilitysolutions/precache-manifest.aa567f117ae2ba63dcb067f90336f3c2.js",
-    "service-worker.js": "/digilitysolutions/service-worker.js",
-    "static/css/main.435d5fe5.chunk.css.map": "/digilitysolutions/static/css/main.435d5fe5.chunk.css.map",
-    "static/media/UpdatedLogo.jpg": "/digilitysolutions/static/media/UpdatedLogo.0c5492dc.jpg",
-    "static/media/ai.mp4": "/digilitysolutions/static/media/ai.14479240.mp4"
+    "main.css": "/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/static/js/main.0abaec5c.chunk.js",
+    "main.js.map": "/static/js/main.0abaec5c.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.9ada3acc.js",
+    "runtime~main.js.map": "/static/js/runtime~main.9ada3acc.js.map",
+    "static/js/2.04516796.chunk.js": "/static/js/2.04516796.chunk.js",
+    "static/js/2.04516796.chunk.js.map": "/static/js/2.04516796.chunk.js.map",
+    "static/js/3.a339f9cc.chunk.js": "/static/js/3.a339f9cc.chunk.js",
+    "static/js/3.a339f9cc.chunk.js.map": "/static/js/3.a339f9cc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8388f5741aa6606d6ba471a9d5d19a2c.js": "/precache-manifest.8388f5741aa6606d6ba471a9d5d19a2c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/static/css/main.435d5fe5.chunk.css.map",
+    "static/media/UpdatedLogo.jpg": "/static/media/UpdatedLogo.0c5492dc.jpg",
+    "static/media/ai.mp4": "/static/media/ai.14479240.mp4"
   }
 }
