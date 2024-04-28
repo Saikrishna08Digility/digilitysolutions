@@ -2,7 +2,7 @@
   "name": "digilityweb",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Saikrishna08Digility/digilitysolutions",
+  "homepage": "https://saikrishna08digility.github.io/digilitysolutions/",
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
@@ -31,7 +31,7 @@
     "eject": "react-scripts eject",
     "dev": "NODE_OPTIONS='--openssl-legacy-provider' npm start",
     "predeploy":"npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": [
